@@ -1,3 +1,8 @@
+---
+** THIS PROGRAM CAN BE INSTALLED FROM APT-GET **
+---
+                                  
+                                  
                                   E00compr
 
                      Compressed E00 Read/Write Library
